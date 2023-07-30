@@ -18,5 +18,5 @@ Link to the design in TinkerCAD: [LINK](https://www.tinkercad.com/things/7h5DKvN
 ## Notes: 
 - Created in TinkerCAD.
 
-### Lab Due Date: March 30th 2023
+### Lab Due Date: March 16th 2023
 ### Mark Received: 100%
