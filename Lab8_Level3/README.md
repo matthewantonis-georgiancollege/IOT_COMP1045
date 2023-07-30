@@ -8,7 +8,7 @@
 ## Final Design:
 
 <p align="center">
-<img width="800" src="https://github.com/matthewantonis-georgiancollege/IOT_COMP1045/assets/122380719/17b7dff2-8a86-46b4-ad0b-bf27fde9bfc">
+<img width="800" src="https://github.com/matthewantonis-georgiancollege/IOT_COMP1045/assets/122380719/fca48a8c-af56-46ed-9316-b99c0974d33d">
 <p/>
 
 Link to the design in TinkerCAD: [LINK](https://www.tinkercad.com/things/2XbuaU3nfaj?sharecode=SsTaHX1S_9DixST0QmJqiQ_LznedeNxmDd37p6lG-M4)
