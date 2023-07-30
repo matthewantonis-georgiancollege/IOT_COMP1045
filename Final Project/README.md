@@ -32,6 +32,6 @@ This digital safe project is designed to simulate a secure, password-protected s
 ## Notes: 
 - Created in TinkerCAD.
 
-### Assignment Due Date: ~ April 2023
+### Assignment Due Date: ~ Late April 2023
 ### Mark Received: ~95%
 - Instructor stated I only lost points on creativity 
