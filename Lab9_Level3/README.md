@@ -3,9 +3,9 @@
 ## Purpose:
 - Via instructions from the serial monitor the use will control the lights by using the IR controller
 - Functions include:
-  - Control Blue Led (On/off)
-  - Control Red Led (On/off)
-  - Control Both Leds (On/off)
+  - Control Blue Led (on/off)
+  - Control Red Led (on/off)
+  - Control Both Leds (on/off)
 
 ## Final Design:
 
