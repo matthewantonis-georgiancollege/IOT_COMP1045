@@ -1,8 +1,8 @@
-# Assignment #1: Word Counter
+# Final Project: Digital Safe
 
 ## Instructions (From memory): 
 - Create a program using C++ using the Arduino Uno and its various components.
-- Make it practical and unique
+- Make it practical and uniquely yours.
 
 ## Final Design:
 
