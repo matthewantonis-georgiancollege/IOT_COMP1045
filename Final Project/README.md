@@ -12,6 +12,8 @@
 
 Link to the design in TinkerCAD: [LINK](https://www.tinkercad.com/things/4HcGyqs16G0?sharecode=ohGSKfeaeGRYHQX-cUbdTRMAE0nOObObA9wXjxrvxVI)
 
+Video I Made Detailing It: [YOUTUBE](https://youtu.be/dndW7cYxJMw) 
+
 ## Intended purpose of the Project:
 This digital safe project is designed to simulate a secure, password-protected safe that can store a virtual "bank balance" representing money held in the safe. The project uses an Arduino microcontroller, an LCD screen, a keypad, and a servo motor to simulate the functionality of a real safe.
 
