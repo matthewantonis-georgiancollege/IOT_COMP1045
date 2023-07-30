@@ -7,4 +7,4 @@ Difficulty Goes from Highest to Lowest:
 - Assignment
 
 ### January 9th 2023 - April 21st 2023
-### Grade Recieved: 99%
+### Grade Received: 95%
