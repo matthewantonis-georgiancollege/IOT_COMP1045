@@ -10,7 +10,7 @@
 <img width="800" src="https://github.com/matthewantonis-georgiancollege/IOT_COMP1045/assets/122380719/49def426-fda2-4f15-9345-886fc656487d">
 <p/>
 
-Link to the deign in TinkerCAD: [LINK](https://www.tinkercad.com/things/4HcGyqs16G0?sharecode=ohGSKfeaeGRYHQX-cUbdTRMAE0nOObObA9wXjxrvxVI)
+Link to the design in TinkerCAD: [LINK](https://www.tinkercad.com/things/4HcGyqs16G0?sharecode=ohGSKfeaeGRYHQX-cUbdTRMAE0nOObObA9wXjxrvxVI)
 
 ## Intended purpose of the Project:
 This digital safe project is designed to simulate a secure, password-protected safe that can store a virtual "bank balance" representing money held in the safe. The project uses an Arduino microcontroller, an LCD screen, a keypad, and a servo motor to simulate the functionality of a real safe.
