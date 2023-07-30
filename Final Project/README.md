@@ -7,7 +7,7 @@
 ## Final Design:
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/IOT_COMP1045/assets/122380719/b890bddc-1aa2-4e24-811f-4645d1a2b9a8">
+<img width="800" src="https://github.com/matthewantonis-georgiancollege/IOT_COMP1045/assets/122380719/b890bddc-1aa2-4e24-811f-4645d1a2b9a8">
 <p/>
 
 ## Intended purpose of the Project:
