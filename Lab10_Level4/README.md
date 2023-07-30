@@ -3,7 +3,7 @@
 ## Purpose:
 - User can spin the servo motor left (left button) or right (right button)
 - This will also change the colors on the RGB PIN
-- Compared to level 3 its utilizing two boards and displays current color in serial monitor and angle degree
+- Compared to level 3 its utilizing two boards and displays the current color in serial monitor and angle degree
 
 ## Final Design:
 
