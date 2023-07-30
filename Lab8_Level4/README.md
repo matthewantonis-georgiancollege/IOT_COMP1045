@@ -15,5 +15,5 @@ Link to the design in TinkerCAD: [LINK](https://www.tinkercad.com/things/dODMsIR
 ## Notes: 
 - Created in TinkerCAD.
 
-### Project Due Date: ~ April 2023
+### Project Due Date: March 9th 2023
 ### Mark Received: 100%
